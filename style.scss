@@ -115,8 +115,14 @@ strong, b {
 img {
   max-width: 100%;
 }
-table, th, td {
-   border: 1px solid black;
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
 }
 .gmnoprint img {
   max-width: none;
