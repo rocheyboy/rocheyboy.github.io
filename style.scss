@@ -116,14 +116,14 @@ img {
   max-width: 100%;
 }
 
-table {
-    border: 1px FFFFFF;
-	width: 100%;
+table { 
+	border-collapse: collapse;
 }
 
-th {
-    height: 50px;
-}
+table, th, td {
+	border: 2px solid #ffffff
+{
+	
 .gmnoprint img {
   max-width: none;
 }
